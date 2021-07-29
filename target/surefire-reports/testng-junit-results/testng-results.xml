@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-09T23:23:19Z" name="Surefire suite" finished-at="2020-10-09T23:23:43Z" duration-ms="23796">
+    <groups>
+    </groups>
+    <test started-at="2020-10-09T23:23:19Z" name="Surefire test" finished-at="2020-10-09T23:23:43Z" duration-ms="23796">
+      <class name="testCases.SeleniumTest">
+        <test-method signature="invalid_UserCredential()[pri:0, instance:invalid_UserCredential(testCases.SeleniumTest)]" started-at="2020-10-10T00:23:28Z" name="invalid_UserCredential" finished-at="2020-10-10T00:23:29Z" duration-ms="1142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalid_UserCredential -->
+        <test-method signature="valid_UserCredential()[pri:0, instance:valid_UserCredential(testCases.SeleniumTest)]" started-at="2020-10-10T00:23:29Z" name="valid_UserCredential" finished-at="2020-10-10T00:23:42Z" duration-ms="13030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_UserCredential -->
+      </class> <!-- testCases.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
